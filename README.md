@@ -43,7 +43,7 @@ When the recognition cycle is complete, the output is written to a subfolder cal
 
 ##Typical Output
 
-You can find an example output in this project (under the folder named `example`) or online at <https://netninja.com/fun/rekognizer/>.
+You can find an example output in this project (under the folder named `example`) or online at <https://netninja.com/fun/rekognizer/sintel/>.
 
 ##Feature Wishlist
 

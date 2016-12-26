@@ -126,24 +126,27 @@ def generate_html(tmp_location, rekognize_results)
     outfile << "td.metadata {width:50%; padding-left:2em;}\n"
     outfile << "div.timecode {font-weight:bold; text-decoration:underline;}\n"
     outfile << "ul {list-style: none; padding-left:0; margin-top:0;}\n"
+    outfile << "a {color:#000;}\n"
     outfile << "img {max-width:100%;}\n"
     outfile << "</style><body>\n"
     outfile << "<table>\n"
+    counter = 0
     rekognize_results.each { |result|
         filename = result[0]
         seconds = result[1]
         label_string = result[2]
         labels = result[3]
         outfile << "<tr class=\"row\"><td class=\"thumbnail\">\n"
-        outfile << "<img src=\"#{filename}\" />\n"
+        outfile << "<a name=\"thumb#{counter}\"></a><img src=\"#{filename}\" />\n"
         outfile << "</td><td class=\"metadata\">\n"
-        outfile << "<div class=\"timecode\">#{time_string(seconds)}</div>\n"
+        outfile << "<div class=\"timecode\"><a href=\"#thumb#{counter}\">#{time_string(seconds)}</a></div>\n"
         outfile << "<div class=\"labels\"><ul>"
         labels.each { |entry|
             outfile << "<li>#{entry.name} : #{entry.confidence.to_i}%</li>\n"
         }
         outfile << "</ul></div>\n"
         outfile << "</td></tr>\n"
+        counter += 1
     }
     outfile << "</table>\n"
     outfile << "</body></html>\n"
