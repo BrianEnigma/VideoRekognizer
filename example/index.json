@@ -1,0 +1,542 @@
+[
+	{
+		"filename": "img00001.png",
+		"seconds": 0,
+		"time": "0h:00m:00s",
+		"allLabels": "'Calendar:63%' 'Text:63%' "
+	}
+	,{
+		"filename": "img00002.png",
+		"seconds": 10,
+		"time": "0h:00m:10s",
+		"allLabels": "'Alps:66%' 'Crest:66%' 'Mountain:66%' 'Peak:66%' 'Arctic:63%' 'Glacier:63%' 'Ice:63%' 'Outdoors:63%' 'Snow:63%' 'Mountain Range:51%' "
+	}
+	,{
+		"filename": "img00003.png",
+		"seconds": 20,
+		"time": "0h:00m:20s",
+		"allLabels": "'Arctic:96%' 'Glacier:96%' 'Ice:96%' 'Mountain:96%' 'Outdoors:96%' 'Snow:96%' 'Alps:70%' 'Crest:70%' 'Peak:70%' 'Fog:64%' 'Mountain Range:52%' 'Plateau:51%' "
+	}
+	,{
+		"filename": "img00004.png",
+		"seconds": 30,
+		"time": "0h:00m:30s",
+		"allLabels": "'Human:99%' 'People:99%' 'Person:99%' 'Afro Hairstyle:52%' 'Hair:52%' "
+	}
+	,{
+		"filename": "img00005.png",
+		"seconds": 40,
+		"time": "0h:00m:40s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Art:84%' 'Sculpture:84%' 'Statue:84%' 'Dance:71%' 'Dance Pose:71%' 'Man:61%' 'Gargoyle:59%' 'Figurine:56%' 'Face:51%' 'Selfie:51%' 'Baby:50%' 'Child:50%' 'Kid:50%' 'Anubis:50%' 'Clothing:50%' 'Dress Shirt:50%' 'Shirt:50%' "
+	}
+	,{
+		"filename": "img00006.png",
+		"seconds": 50,
+		"time": "0h:00m:50s",
+		"allLabels": "'People:99%' 'Person:99%' 'Human:99%' 'Portrait:51%' 'Selfie:51%' 'Female:50%' 'Outdoors:50%' "
+	}
+	,{
+		"filename": "img00007.png",
+		"seconds": 60,
+		"time": "0h:01m:00s",
+		"allLabels": "'Animal:74%' 'Beagle:74%' 'Canine:74%' 'Dog:74%' 'Hound:74%' 'Mammal:74%' 'Pet:74%' 'Face:53%' 'Selfie:53%' 'Outdoors:51%' 'Sand:50%' 'Soil:50%' "
+	}
+	,{
+		"filename": "img00008.png",
+		"seconds": 70,
+		"time": "0h:01m:10s",
+		"allLabels": "'Face:51%' 'Selfie:51%' "
+	}
+	,{
+		"filename": "img00009.png",
+		"seconds": 80,
+		"time": "0h:01m:20s",
+		"allLabels": "'Alps:95%' 'Crest:95%' 'Mountain:95%' 'Peak:95%' 'Arctic:74%' 'Glacier:74%' 'Ice:74%' 'Outdoors:74%' 'Snow:74%' 'Mountain Range:64%' 'Winter:51%' "
+	}
+	,{
+		"filename": "img00010.png",
+		"seconds": 90,
+		"time": "0h:01m:30s",
+		"allLabels": "'Alps:94%' 'Crest:94%' 'Mountain:94%' 'Peak:94%' 'Logo:74%' 'Trademark:74%' 'Calligraphy:70%' 'Handwriting:70%' 'Text:70%' 'Lagoon:60%' 'Lake:60%' 'Outdoors:60%' 'Water:60%' 'Ice:60%' 'Snow:60%' 'Landscape:52%' 'Nature:52%' 'Scenery:52%' 'Mountain Range:51%' 'Emblem:51%' "
+	}
+	,{
+		"filename": "img00011.png",
+		"seconds": 100,
+		"time": "0h:01m:40s",
+		"allLabels": "'Pot:56%' 'Pottery:56%' 'Crypt:51%' "
+	}
+	,{
+		"filename": "img00012.png",
+		"seconds": 110,
+		"time": "0h:01m:50s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Female:73%' 'Portrait:57%' 'Selfie:57%' 'Woman:52%' "
+	}
+	,{
+		"filename": "img00013.png",
+		"seconds": 120,
+		"time": "0h:02m:00s",
+		"allLabels": "'People:99%' 'Person:99%' 'Human:99%' 'Cup:95%' 'Female:57%' 'Girl:57%' 'Woman:57%' 'Bra:52%' 'Lingerie:52%' 'Underwear:52%' "
+	}
+	,{
+		"filename": "img00014.png",
+		"seconds": 130,
+		"time": "0h:02m:10s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Goggles:94%' 'Baby:50%' 'Child:50%' 'Kid:50%' 'Newborn:50%' 'Face:50%' 'Selfie:50%' "
+	}
+	,{
+		"filename": "img00015.png",
+		"seconds": 140,
+		"time": "0h:02m:20s",
+		"allLabels": "'Female:83%' 'Girl:83%' 'Person:83%' 'Woman:83%' 'Figurine:81%' 'Mannequin:81%' 'Face:64%' 'Selfie:64%' "
+	}
+	,{
+		"filename": "img00016.png",
+		"seconds": 150,
+		"time": "0h:02m:30s",
+		"allLabels": "'City:89%' 'Downtown:89%' 'Metropolis:76%' 'Urban:76%' 'Building:64%' 'Town:64%' 'Crowd:55%' 'Parade:55%' 'Neighborhood:54%' 'High Rise:51%' 'Architecture:50%' 'Spire:50%' 'Steeple:50%' 'Tower:50%' "
+	}
+	,{
+		"filename": "img00017.png",
+		"seconds": 160,
+		"time": "0h:02m:40s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Clothing:69%' 'Hood:69%' 'Hoodie:69%' 'Sweatshirt:69%' 'Female:58%' 'Girl:58%' 'Woman:58%' 'Fence:54%' 'Wall:54%' 'Alley:53%' 'Alleyway:53%' 'Road:53%' 'Street:53%' 'Town:53%' 'Portrait:53%' 'Selfie:53%' 'Face:52%' "
+	}
+	,{
+		"filename": "img00018.png",
+		"seconds": 170,
+		"time": "0h:02m:50s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Brick:52%' 'Rubble:50%' 'Face:50%' 'Selfie:50%' 'Portrait:50%' 'Alley:50%' 'Alleyway:50%' 'Road:50%' 'Street:50%' 'Town:50%' "
+	}
+	,{
+		"filename": "img00019.png",
+		"seconds": 180,
+		"time": "0h:03m:00s",
+		"allLabels": "'People:99%' 'Person:99%' 'Human:99%' 'Figurine:96%' 'Mannequin:96%' 'Female:84%' 'Girl:84%' 'Woman:84%' 'Brick:79%' 'Blonde:62%' 'Face:52%' 'Selfie:52%' 'Portrait:50%' "
+	}
+	,{
+		"filename": "img00020.png",
+		"seconds": 190,
+		"time": "0h:03m:10s",
+		"allLabels": "'Cobblestone:71%' 'Pavement:71%' 'Walkway:71%' 'Bra:64%' 'Lingerie:64%' 'Underwear:64%' 'Flagstone:60%' 'Brick:58%' 'Cushion:54%' 'Home Decor:54%' 'Pillow:54%' 'Costume:51%' 'Face:50%' 'Selfie:50%' "
+	}
+	,{
+		"filename": "img00021.png",
+		"seconds": 200,
+		"time": "0h:03m:20s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Female:95%' 'Girl:95%' 'Woman:95%' 'Doll:75%' 'Toy:75%' 'Face:54%' 'Selfie:54%' "
+	}
+	,{
+		"filename": "img00022.png",
+		"seconds": 210,
+		"time": "0h:03m:30s",
+		"allLabels": "'People:99%' 'Person:99%' 'Human:99%' 'Female:77%' 'Girl:77%' 'Woman:77%' 'Teddy Bear:69%' 'Toy:69%' 'Adorable:61%' 'Footwear:61%' 'Shoe:61%' 'Art:59%' 'Gargoyle:59%' 'Statue:59%' 'Face:52%' 'Selfie:52%' 'Leisure Activities:51%' 'Acorn:50%' 'Plant:50%' 'Seed:50%' "
+	}
+	,{
+		"filename": "img00023.png",
+		"seconds": 220,
+		"time": "0h:03m:40s",
+		"allLabels": "'Night:73%' 'Outdoors:73%' 'Alley:53%' 'Alleyway:53%' 'Road:53%' 'Street:53%' 'Town:53%' 'Crowd:50%' 'City:50%' 'Downtown:50%' 'Urban:50%' 'Console:50%' "
+	}
+	,{
+		"filename": "img00024.png",
+		"seconds": 230,
+		"time": "0h:03m:50s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Cave:83%' 'Alien:60%' 'Art:59%' 'Leisure Activities:54%' "
+	}
+	,{
+		"filename": "img00025.png",
+		"seconds": 240,
+		"time": "0h:04m:00s",
+		"allLabels": "'Robe:59%' 'Make Out:58%' 'Bra:55%' 'Lingerie:55%' 'Underwear:55%' 'Adorable:53%' 'Person:51%' 'Portrait:51%' 'Selfie:51%' 'Female:50%' "
+	}
+	,{
+		"filename": "img00026.png",
+		"seconds": 250,
+		"time": "0h:04m:10s",
+		"allLabels": "'Plywood:96%' 'Wood:96%' 'Bird:67%' 'Sparrow:67%' 'Finch:50%' 'Railing:50%' "
+	}
+	,{
+		"filename": "img00027.png",
+		"seconds": 260,
+		"time": "0h:04m:20s",
+		"allLabels": "'Bench:81%' 'Water:59%' 'Chair:52%' 'Furniture:52%' 'Lighting:51%' 'Alley:51%' 'Alleyway:51%' 'Road:51%' 'Street:51%' 'Apparel:50%' 'Clothing:50%' 'Town:50%' "
+	}
+	,{
+		"filename": "img00028.png",
+		"seconds": 270,
+		"time": "0h:04m:30s",
+		"allLabels": "'Wood:88%' 'Art:72%' 'Sculpture:72%' 'Statue:72%' 'Gargoyle:71%' 'Bird:68%' 'Buzzard:68%' 'Harrier:68%' 'Hawk:68%' 'Vulture:68%' 'Dove:60%' 'Pigeon:60%' 'Kite Bird:51%' 'Anubis:50%' 'Outdoors:50%' 'Sand:50%' 'Soil:50%' "
+	}
+	,{
+		"filename": "img00029.png",
+		"seconds": 280,
+		"time": "0h:04m:40s",
+		"allLabels": "'Blonde:77%' 'Female:77%' 'Person:77%' 'Woman:77%' 'Flare:67%' 'Light:67%' 'Sunlight:67%' 'City:54%' 'Downtown:54%' 'Urban:54%' 'Bikini:53%' 'Maillot:53%' 'Swimwear:53%' 'Dock:52%' 'Landing:52%' 'Pier:52%' 'Building:51%' 'Town:51%' "
+	}
+	,{
+		"filename": "img00030.png",
+		"seconds": 290,
+		"time": "0h:04m:50s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Architecture:55%' 'Shrine:55%' 'Temple:55%' 'Worship:55%' 'Light:54%' 'Crypt:52%' 'Fire:52%' 'Flare:51%' 'Sunlight:51%' 'City:50%' 'Downtown:50%' 'Urban:50%' "
+	}
+	,{
+		"filename": "img00031.png",
+		"seconds": 300,
+		"time": "0h:05m:00s",
+		"allLabels": "'People:99%' 'Person:99%' 'Human:99%' 'Dusk:76%' 'Outdoors:76%' 'Sky:76%' 'Sunlight:76%' 'Sunrise:76%' 'Sunset:76%' 'Dance:67%' 'Dance Pose:67%' 'Figurine:51%' 'Leisure Activities:50%' 'City:50%' 'Downtown:50%' "
+	}
+	,{
+		"filename": "img00032.png",
+		"seconds": 310,
+		"time": "0h:05m:10s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Face:74%' 'Selfie:74%' 'Head:73%' 'Portrait:73%' 'Doll:72%' 'Toy:72%' 'Blonde:68%' 'Female:68%' 'Woman:68%' 'Girl:66%' 'Skin:60%' "
+	}
+	,{
+		"filename": "img00033.png",
+		"seconds": 320,
+		"time": "0h:05m:20s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Animal:90%' 'Bat:90%' 'Racket:90%' 'Back:89%' 'Bra:69%' 'Lingerie:69%' 'Underwear:69%' 'Blonde:62%' 'Female:62%' 'Woman:62%' 'Finger:53%' 'Hand:53%' 'Maillot:51%' 'Swimwear:51%' 'Portrait:50%' 'Selfie:50%' "
+	}
+	,{
+		"filename": "img00034.png",
+		"seconds": 330,
+		"time": "0h:05m:30s",
+		"allLabels": "'Animal:79%' 'Bat:79%' 'Racket:79%' 'Plant:50%' "
+	}
+	,{
+		"filename": "img00035.png",
+		"seconds": 340,
+		"time": "0h:05m:40s",
+		"allLabels": "'People:99%' 'Person:99%' 'Human:99%' 'Female:88%' 'Girl:88%' 'Woman:88%' 'Footwear:84%' 'Shoe:84%' 'Doll:54%' 'Toy:54%' 'Face:53%' 'Selfie:53%' 'Column:51%' 'Pillar:51%' 'Portrait:50%' "
+	}
+	,{
+		"filename": "img00036.png",
+		"seconds": 350,
+		"time": "0h:05m:50s",
+		"allLabels": "'Art:90%' 'Sculpture:90%' 'Statue:90%' 'Plant:50%' 'Tree:50%' 'Outdoors:50%' "
+	}
+	,{
+		"filename": "img00037.png",
+		"seconds": 360,
+		"time": "0h:06m:00s",
+		"allLabels": "'Astronomy:51%' 'Moon:51%' 'Night:51%' 'Outdoors:51%' 'Space:51%' "
+	}
+	,{
+		"filename": "img00038.png",
+		"seconds": 370,
+		"time": "0h:06m:10s",
+		"allLabels": "'Propeller:67%' 'Flare:67%' 'Light:67%' 'Sunlight:67%' 'Cap:52%' 'Hat:52%' 'Sun Hat:52%' 'Outdoors:51%' 'Sand:51%' 'Soil:51%' 'Person:51%' 'Portrait:51%' 'Selfie:51%' 'Face:51%' 'Female:50%' 'Head:50%' "
+	}
+	,{
+		"filename": "img00039.png",
+		"seconds": 380,
+		"time": "0h:06m:20s",
+		"allLabels": "'Bamboo:99%' 'Plant:99%' 'Wood:99%' 'Arecaceae:57%' 'Palm Tree:57%' 'Tree:57%' 'Forest:55%' 'Vegetation:55%' 'Jungle:53%' 'Grass:53%' 'Reed:53%' 'Birch:51%' 'Blossom:50%' 'Flora:50%' 'Flower:50%' "
+	}
+	,{
+		"filename": "img00040.png",
+		"seconds": 390,
+		"time": "0h:06m:30s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Rock:63%' 'Outdoors:55%' 'Sea:55%' 'Sea Waves:55%' 'Water:55%' 'Ocean:54%' 'Arctic:50%' 'Ice:50%' 'Snow:50%' 'Winter:50%' "
+	}
+	,{
+		"filename": "img00041.png",
+		"seconds": 400,
+		"time": "0h:06m:40s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Accessories:51%' 'Face:51%' 'Selfie:51%' "
+	}
+	,{
+		"filename": "img00042.png",
+		"seconds": 410,
+		"time": "0h:06m:50s",
+		"allLabels": "'Alps:89%' 'Crest:89%' 'Mountain:89%' 'Peak:89%' 'Arctic:84%' 'Glacier:84%' 'Ice:84%' 'Outdoors:84%' 'Snow:84%' 'Silhouette:55%' 'Art:52%' 'Sculpture:52%' 'Statue:52%' 'Flying:50%' 'Winter:50%' "
+	}
+	,{
+		"filename": "img00043.png",
+		"seconds": 420,
+		"time": "0h:07m:00s",
+		"allLabels": "'Alps:82%' 'Crest:82%' 'Mountain:82%' 'Peak:82%' 'Blizzard:70%' 'Outdoors:70%' 'Snow:70%' 'Weather:70%' 'Winter:70%' 'Ice:66%' 'Arctic:51%' "
+	}
+	,{
+		"filename": "img00044.png",
+		"seconds": 430,
+		"time": "0h:07m:10s",
+		"allLabels": "'Human:99%' 'People:99%' 'Person:99%' 'Ice:75%' 'Outdoors:75%' 'Snow:75%' 'Finger:75%' 'Hand:75%' 'Figurine:57%' 'Fitness:53%' 'Working Out:53%' 'Female:53%' 'Portrait:50%' 'Selfie:50%' "
+	}
+	,{
+		"filename": "img00045.png",
+		"seconds": 440,
+		"time": "0h:07m:20s",
+		"allLabels": "'Female:70%' 'Girl:70%' 'Person:70%' 'Woman:70%' 'Face:54%' 'Selfie:54%' 'Portrait:52%' "
+	}
+	,{
+		"filename": "img00046.png",
+		"seconds": 450,
+		"time": "0h:07m:30s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Female:69%' 'Girl:69%' 'Woman:69%' 'Doll:56%' 'Toy:56%' 'Face:56%' 'Selfie:56%' 'Portrait:53%' "
+	}
+	,{
+		"filename": "img00047.png",
+		"seconds": 460,
+		"time": "0h:07m:40s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Doll:75%' 'Toy:75%' 'Light:69%' 'Female:66%' 'Girl:66%' 'Woman:66%' 'Face:54%' 'Selfie:54%' "
+	}
+	,{
+		"filename": "img00048.png",
+		"seconds": 470,
+		"time": "0h:07m:50s",
+		"allLabels": "'Cave:95%' 'Light:55%' 'Art:54%' 'Modern Art:54%' 'Fractal:50%' "
+	}
+	,{
+		"filename": "img00049.png",
+		"seconds": 480,
+		"time": "0h:08m:00s",
+		"allLabels": "'Cave:97%' 'Tunnel:59%' "
+	}
+	,{
+		"filename": "img00050.png",
+		"seconds": 490,
+		"time": "0h:08m:10s",
+		"allLabels": "'Light:73%' 'Smoke:60%' 'Fire:60%' 'Lighting:50%' "
+	}
+	,{
+		"filename": "img00051.png",
+		"seconds": 500,
+		"time": "0h:08m:20s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Night:53%' 'Outdoors:53%' "
+	}
+	,{
+		"filename": "img00052.png",
+		"seconds": 510,
+		"time": "0h:08m:30s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Female:86%' 'Girl:86%' 'Woman:86%' 'Face:59%' 'Selfie:59%' 'Doll:54%' 'Toy:54%' 'Portrait:51%' "
+	}
+	,{
+		"filename": "img00053.png",
+		"seconds": 520,
+		"time": "0h:08m:40s",
+		"allLabels": "'Silhouette:71%' 'Dance:67%' 'Dance Pose:67%' 'LED:51%' 'Lighting:51%' 'Spotlight:51%' 'Anubis:50%' "
+	}
+	,{
+		"filename": "img00054.png",
+		"seconds": 530,
+		"time": "0h:08m:50s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Female:97%' 'Girl:97%' 'Woman:97%' 'Face:58%' 'Selfie:58%' 'Light:57%' 'Portrait:51%' "
+	}
+	,{
+		"filename": "img00055.png",
+		"seconds": 540,
+		"time": "0h:09m:00s",
+		"allLabels": ""
+	}
+	,{
+		"filename": "img00056.png",
+		"seconds": 550,
+		"time": "0h:09m:10s",
+		"allLabels": ""
+	}
+	,{
+		"filename": "img00057.png",
+		"seconds": 560,
+		"time": "0h:09m:20s",
+		"allLabels": "'Dance:74%' 'Dance Pose:74%' 'Corset:52%' "
+	}
+	,{
+		"filename": "img00058.png",
+		"seconds": 570,
+		"time": "0h:09m:30s",
+		"allLabels": "'People:99%' 'Person:99%' 'Human:99%' 'Blonde:85%' 'Female:85%' 'Woman:85%' 'Girl:84%' 'Portrait:66%' 'Selfie:66%' 'Bra:51%' 'Lingerie:51%' 'Underwear:51%' 'Face:51%' 'Lighting:50%' "
+	}
+	,{
+		"filename": "img00059.png",
+		"seconds": 580,
+		"time": "0h:09m:40s",
+		"allLabels": "'Leisure Activities:62%' 'Diver:51%' 'Diving:51%' 'Sport:51%' 'Water:51%' "
+	}
+	,{
+		"filename": "img00060.png",
+		"seconds": 590,
+		"time": "0h:09m:50s",
+		"allLabels": ""
+	}
+	,{
+		"filename": "img00061.png",
+		"seconds": 600,
+		"time": "0h:10m:00s",
+		"allLabels": "'Art:55%' 'Modern Art:55%' 'Emblem:50%' 'Logo:50%' "
+	}
+	,{
+		"filename": "img00062.png",
+		"seconds": 610,
+		"time": "0h:10m:10s",
+		"allLabels": "'Smoke:98%' 'Asphalt:53%' 'Tarmac:53%' 'Corridor:52%' "
+	}
+	,{
+		"filename": "img00063.png",
+		"seconds": 620,
+		"time": "0h:10m:20s",
+		"allLabels": "'Dragon:64%' "
+	}
+	,{
+		"filename": "img00064.png",
+		"seconds": 630,
+		"time": "0h:10m:30s",
+		"allLabels": "'Female:71%' 'Girl:71%' 'Person:71%' 'Woman:71%' 'Portrait:67%' 'Selfie:67%' 'Face:56%' 'Head:51%' "
+	}
+	,{
+		"filename": "img00065.png",
+		"seconds": 640,
+		"time": "0h:10m:40s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Female:69%' 'Girl:69%' 'Woman:69%' 'Portrait:57%' 'Selfie:57%' 'Face:56%' "
+	}
+	,{
+		"filename": "img00066.png",
+		"seconds": 650,
+		"time": "0h:10m:50s",
+		"allLabels": "'People:99%' 'Person:99%' 'Human:99%' 'Female:83%' 'Girl:83%' 'Woman:83%' 'Light:56%' 'Bra:53%' 'Lingerie:53%' 'Underwear:53%' 'Portrait:51%' 'Selfie:51%' 'Face:50%' 'Fitness:50%' 'Working Out:50%' "
+	}
+	,{
+		"filename": "img00067.png",
+		"seconds": 660,
+		"time": "0h:11m:00s",
+		"allLabels": ""
+	}
+	,{
+		"filename": "img00068.png",
+		"seconds": 670,
+		"time": "0h:11m:10s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Cave:82%' 'Hole:63%' 'Outdoors:57%' 'Sand:57%' 'Soil:57%' 'Apparel:52%' 'Clothing:52%' 'Alps:51%' 'Crest:51%' 'Mountain:51%' 'Peak:51%' 'Crypt:51%' "
+	}
+	,{
+		"filename": "img00069.png",
+		"seconds": 680,
+		"time": "0h:11m:20s",
+		"allLabels": "'Eruption:61%' 'Volcano:61%' 'Dawn:60%' 'Dusk:60%' 'Sky:60%' 'Sunrise:60%' 'Sunset:60%' 'Conifer:52%' 'Fir:52%' 'Plant:52%' 'Tree:52%' 'Light:51%' 'Field:51%' 'Grass:51%' 'Grassland:51%' 'Blossom:50%' 'Flora:50%' 'Flower:50%' "
+	}
+	,{
+		"filename": "img00070.png",
+		"seconds": 690,
+		"time": "0h:11m:30s",
+		"allLabels": "'Leisure Activities:62%' 'Rock:58%' 'Outdoors:58%' 'Female:53%' 'Person:53%' 'Plateau:51%' 'Dawn:51%' 'Dusk:51%' 'Sky:51%' 'Sunrise:51%' 'Sunset:51%' 'Field:50%' 'Grass:50%' 'Grassland:50%' 'Mountain:50%' 'Mountain Range:50%' 'Plant:50%' "
+	}
+	,{
+		"filename": "img00071.png",
+		"seconds": 700,
+		"time": "0h:11m:40s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Female:93%' 'Girl:93%' 'Woman:93%' 'Portrait:72%' 'Selfie:72%' 'Face:52%' 'Bra:51%' 'Lingerie:51%' 'Underwear:51%' 'Leisure Activities:50%' "
+	}
+	,{
+		"filename": "img00072.png",
+		"seconds": 710,
+		"time": "0h:11m:50s",
+		"allLabels": "'Aloe:97%' 'Plant:97%' 'Blossom:59%' 'Flora:59%' 'Flower:59%' 'Rock:56%' 'Petal:53%' 'Outdoors:53%' 'Arecaceae:51%' 'Palm Tree:51%' 'Tree:51%' 'Anthurium:51%' 'Araceae:51%' 'Anther:51%' 'Moss:50%' 'Agavaceae:50%' 'Crocus:50%' 'Soil:50%' 'Field:50%' 'Grass:50%' "
+	}
+	,{
+		"filename": "img00073.png",
+		"seconds": 720,
+		"time": "0h:12m:00s",
+		"allLabels": "'Aloe:97%' 'Plant:97%' 'Cactus:70%' 'Moss:69%' 'Rubble:67%' 'Soil:63%' 'Blossom:59%' 'Flora:59%' 'Flower:59%' 'Crocus:59%' 'Rock:58%' 'Garlic:56%' 'Outdoors:54%' 'Field:53%' 'Grass:53%' 'Grassland:53%' 'Light:53%' 'Sea:52%' 'Sea Waves:52%' 'Water:52%' "
+	}
+	,{
+		"filename": "img00074.png",
+		"seconds": 730,
+		"time": "0h:12m:10s",
+		"allLabels": "'Aloe:94%' 'Plant:94%' 'Cactus:70%' 'Rock:69%' 'Blossom:65%' 'Flora:65%' 'Flower:65%' 'Soil:64%' 'Rubble:63%' 'Outdoors:56%' 'Sea:56%' 'Sea Waves:56%' 'Water:56%' 'Lighting:54%' 'Field:54%' 'Grass:54%' 'Grassland:54%' 'Lamp:53%' 'Lampshade:53%' 'Petal:53%' "
+	}
+	,{
+		"filename": "img00075.png",
+		"seconds": 740,
+		"time": "0h:12m:20s",
+		"allLabels": "'Text:51%' "
+	}
+	,{
+		"filename": "img00076.png",
+		"seconds": 750,
+		"time": "0h:12m:30s",
+		"allLabels": "'Word:66%' 'Text:63%' "
+	}
+	,{
+		"filename": "img00077.png",
+		"seconds": 760,
+		"time": "0h:12m:40s",
+		"allLabels": "'Logo:74%' 'Trademark:74%' 'Text:63%' 'Word:57%' 'Emblem:50%' "
+	}
+	,{
+		"filename": "img00078.png",
+		"seconds": 770,
+		"time": "0h:12m:50s",
+		"allLabels": "'Word:77%' 'Text:70%' "
+	}
+	,{
+		"filename": "img00079.png",
+		"seconds": 780,
+		"time": "0h:13m:00s",
+		"allLabels": "'Word:52%' "
+	}
+	,{
+		"filename": "img00080.png",
+		"seconds": 790,
+		"time": "0h:13m:10s",
+		"allLabels": "'Banister:82%' 'Handrail:82%' 'Staircase:82%' 'Indoors:52%' 'Interior Design:52%' 'Room:52%' 'Dining Table:50%' 'Furniture:50%' 'Table:50%' "
+	}
+	,{
+		"filename": "img00081.png",
+		"seconds": 800,
+		"time": "0h:13m:20s",
+		"allLabels": ""
+	}
+	,{
+		"filename": "img00082.png",
+		"seconds": 810,
+		"time": "0h:13m:30s",
+		"allLabels": "'Art:85%' 'Box:61%' 'Cardboard:61%' 'Paper:58%' 'Brochure:52%' 'Flyer:52%' 'Poster:52%' 'Building:51%' 'City:51%' 'High Rise:51%' 'Indoors:50%' 'Interior Design:50%' 'Room:50%' "
+	}
+	,{
+		"filename": "img00083.png",
+		"seconds": 820,
+		"time": "0h:13m:40s",
+		"allLabels": "'Indoors:51%' 'Interior Design:51%' 'Room:51%' 'Photo Booth:51%' "
+	}
+	,{
+		"filename": "img00084.png",
+		"seconds": 830,
+		"time": "0h:13m:50s",
+		"allLabels": "'People:98%' 'Person:98%' 'Human:98%' 'Brochure:82%' 'Flyer:82%' 'Poster:82%' 'Collage:68%' 'Paper:64%' 'Rock:52%' 'Letter:51%' 'Text:51%' 'Brick:51%' 'Bling:50%' "
+	}
+	,{
+		"filename": "img00085.png",
+		"seconds": 840,
+		"time": "0h:14m:00s",
+		"allLabels": "'Flyer:82%' 'Poster:82%' 'Collage:66%' 'Brochure:61%' 'Paper:56%' "
+	}
+	,{
+		"filename": "img00086.png",
+		"seconds": 850,
+		"time": "0h:14m:10s",
+		"allLabels": "'Brochure:81%' 'Flyer:81%' 'Poster:81%' 'Paper:67%' 'Collage:59%' 'Brick:57%' 'Alley:53%' 'Alleyway:53%' 'Road:53%' 'Street:53%' 'Town:53%' 'Person:52%' 'Portrait:52%' 'Selfie:52%' 'Female:50%' "
+	}
+	,{
+		"filename": "img00087.png",
+		"seconds": 860,
+		"time": "0h:14m:20s",
+		"allLabels": "'Paper:65%' 'Brochure:56%' 'Flyer:56%' 'Poster:56%' "
+	}
+	,{
+		"filename": "img00088.png",
+		"seconds": 870,
+		"time": "0h:14m:30s",
+		"allLabels": "'Footwear:72%' 'Shoe:72%' 'Skeleton:65%' 'Figurine:61%' 'Anubis:54%' 'Brochure:53%' 'Flyer:53%' 'Poster:53%' 'Collage:51%' "
+	}
+	,{
+		"filename": "img00089.png",
+		"seconds": 880,
+		"time": "0h:14m:40s",
+		"allLabels": "'Text:70%' 'Word:67%' "
+	}
+	,{
+		"filename": "img00090.png",
+		"seconds": 890,
+		"time": "0h:14m:50s",
+		"allLabels": "'Text:71%' 'Word:67%' "
+	}
+]
