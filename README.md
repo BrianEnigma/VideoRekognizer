@@ -49,4 +49,5 @@ You can find an example output in this project (under the folder named `example`
 
 - Better JSON. The current JSON is non-optimal, squishing all recognized values into a single field. It really should be a more complex data structure.
 - Better pipelining. Or really, any pipelining. The script acts serially, first extracting video frames. When that is complete, it uploads them. When that is complete, it performs image recognition. A significant portion of the run time of this script is shuffling bytes around. This can be sped up by uploading each frame as it becomes available. It can then be further sped up by performing image recognition on an image as soon as it has uploaded to S3.
+- Faster image extraction. ffmpeg has to rip through the movie, discarding frames as it goes. It ends up decoding all images as it goes. On one of my slower systems, gives a throughput of about 4x. In other words, extracting images every 10 minutes from a 2 hour movie takes 30 minutes to perform. It's likely to be faster to run ffmpeg multiple times, each time seeking and extracting a frame.
 

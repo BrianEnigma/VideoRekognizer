@@ -5,7 +5,7 @@ require 'yaml'
 require 'aws-sdk'
 
 def extract_frames(video_filename, extract_period, tmp_location)
-    cmd = "ffmpeg -loglevel 16 -i #{video_filename} -vf fps=1/#{extract_period} #{tmp_location}/img%05d.png"
+    cmd = "ffmpeg -loglevel 16 -i \"#{video_filename}\" -vf fps=1/#{extract_period} #{tmp_location}/img%05d.png"
     print("Extracting video frames...\n")
     Kernel.system(cmd)
     count = `ls #{tmp_location}/*.png | wc -l`
