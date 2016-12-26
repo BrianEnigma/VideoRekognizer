@@ -4,10 +4,29 @@ require 'getoptlong'
 require 'yaml'
 require 'aws-sdk'
 
+def timecode_string(seconds)
+    hours = (seconds / (60 * 60)).to_i
+    seconds = seconds % (60 * 60)
+    minutes = (seconds / 60).to_i
+    seconds = seconds % 60
+    return sprintf("%02u:%02u:%02u.000", hours, minutes, seconds)
+end
+
 def extract_frames(video_filename, extract_period, tmp_location)
-    cmd = "ffmpeg -loglevel 16 -i \"#{video_filename}\" -vf fps=1/#{extract_period} #{tmp_location}/img%05d.png"
+    seconds = 0
+    counter = 0
     print("Extracting video frames...\n")
-    Kernel.system(cmd)
+    while true
+        timecode = timecode_string(seconds)
+        filename = sprintf("%s/img%05d.png", tmp_location, counter)
+        cmd = "ffmpeg -loglevel 16 -ss #{timecode} -i \"#{video_filename}\" -frames:v 1 \"#{filename}\""
+        print("#{timecode}\r")
+        rc = Kernel.system(cmd)
+        break if (true != rc)
+        break if (!File.exists?(filename))
+        seconds += extract_period
+        counter += 1
+    end
     count = `ls #{tmp_location}/*.png | wc -l`
     count = count.to_i
     print("Extracted #{count} video frames\n")
