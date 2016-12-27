@@ -46,12 +46,13 @@ def upload_frames(tmp_location, bucket_name)
     Dir.new(tmp_location).each { |filename|
         #p filename
         if (0 == filename.index('img') && filename.index('.png') == filename.length - 4)
-            print("Uploading #{filename}...\n")
+            print("Uploading #{filename}...\r")
             f = File.new("#{tmp_location}/#{filename}", 'rb')
             s3.put_object(bucket: bucket_name, key: filename, body: f.read)
             f.close
         end
-    }    
+    }
+    print("\n")
 end
 
 def time_string(seconds)
